@@ -1,5 +1,6 @@
 #randomnum_game
 #bet
+
 import random
 
 print ("Welcome to One Stop Lottery!")
